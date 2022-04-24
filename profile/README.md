@@ -4,7 +4,7 @@ Seja bem-vindo(a) ao github da (JK) COMUNIDADE.
 
 Aqui você irá encontrar os códigos feitos pela nossa equipe e desenvolvedores da comunidade com linguagens de programação ponta a ponta!
 
-Você irá encontrar:
+> Você irá encontrar:
 
 ![Sequelize](https://img.shields.io/badge/Sequelize-52B0E7?style=for-the-badge&logo=Sequelize&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
